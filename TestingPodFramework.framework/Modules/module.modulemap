@@ -1,0 +1,10 @@
+framework module TestingPodFramework {
+  umbrella header "TestingPodFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module TestingPodFramework.Swift {
+    header "TestingPodFramework-Swift.h"
+}

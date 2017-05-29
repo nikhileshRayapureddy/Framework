@@ -138,7 +138,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
 #pragma clang diagnostic ignored "-Wduplicate-method-arg"
 
-SWIFT_CLASS("_TtC13TestFramework6TestBO")
+SWIFT_CLASS("_TtC19TestingPodFramework6TestBO")
 @interface TestBO : NSObject
 @property (nonatomic, copy) NSString * _Nonnull strTest;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
