@@ -2,12 +2,12 @@
 //  TestFramework.h
 //  TestFramework
 //
-//  Created by Nikhilesh on 26/05/17.
+//  Created by Nikhilesh on 29/05/17.
 //  Copyright © 2017 CAPILLARY. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
-
+@class TestBO;
 //! Project version number for TestFramework.
 FOUNDATION_EXPORT double TestFrameworkVersionNumber;
 

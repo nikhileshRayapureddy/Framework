@@ -4,3 +4,7 @@ framework module TestFramework {
   export *
   module * { export * }
 }
+
+module TestFramework.Swift {
+    header "TestFramework-Swift.h"
+}
